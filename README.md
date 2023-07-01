@@ -1,3 +1,7 @@
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sakshi!
+<h3 align="center">Student</h3>
+
+
 - 👋 Hi, I’m Sakshi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C, C++, Web Development
